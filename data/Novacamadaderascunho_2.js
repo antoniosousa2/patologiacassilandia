@@ -1,0 +1,1 @@
+var json_Novacamadaderascunho_2 = {"type":"FeatureCollection","name":"Novacamadaderascunho_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"SIGLA":"GO"},"geometry":{"type":"Point","coordinates":[-51.70699235840685,-19.099429103589888]}}]}
